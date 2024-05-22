@@ -10,3 +10,10 @@ if (keyboard_input.(2))
   print('''Yo mama's so fat that...
 
   she starts the alphabet with "o": o,d,c,d(sounds like obesity)''')
+if (keyboard_input.(3))
+  print('''yo mama's so weak that:
+
+  When she tripped over a rock...
+
+
+  She died.''')
